@@ -29,6 +29,7 @@ Vento: 2.57 m/s
 ## 🚀 Tecnologias Utilizadas
 
 - Ruby 3.3+
+- Gem HTTParty
 - API Utilizada:
   - `OpenWeatherMap` para manipulação meteorológicas.
 
@@ -45,6 +46,10 @@ weather_cli/
 
 ## ▶️ Como Usar
 * Execute o script:
+Gem HTTParty:
+```bash
+  gem install httparty
+```
 ```bash
     ruby weather_cli.rb
 
