@@ -46,7 +46,7 @@ weather_cli/
 
 ## ▶️ Como Usar
 * Execute o script:
-Gem HTTParty:
+- Gem HTTParty:
 ```bash
   gem install httparty
 ```
